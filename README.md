@@ -1,5 +1,9 @@
 # stylethrone
 
+## Authors
+- [@Vivek2709](https://github.com/Vivek2709)
+
+
 ### An e-commerce website developed using MERN stack technologies has all the functionalities, including a payment gateway, order management, and an admin panel with all the necessary features
 
 
