@@ -14,9 +14,11 @@
 ![Buy Product](https://github.com/user-attachments/assets/e284ece8-c11d-461a-892f-873c6754aa3a)
 ![Screenshot (326)](https://github.com/user-attachments/assets/f8b828c6-b67d-432b-81e1-fefa0ced86d2)
 
-
-![Screenshot (324)](https://github.com/user-attachments/assets/0d9be73d-0e67-4e6c-86f9-270442f3c8b2)
+# Admin Panel
 ![Screenshot (323)](https://github.com/user-attachments/assets/593e8bd9-3384-463d-91b3-b33c16395bfc)
+![Screenshot (324)](https://github.com/user-attachments/assets/0d9be73d-0e67-4e6c-86f9-270442f3c8b2)
+
+# UI
 ![Screenshot (252)](https://github.com/user-attachments/assets/5a877db5-e655-4438-9877-278c3b51fc9c)
 ![Screenshot (251)](https://github.com/user-attachments/assets/a08f88d6-6276-4ce5-a83b-37b6f4bf4c0d)
 ![Screenshot (250)](https://github.com/user-attachments/assets/aaa933e8-232e-430a-8ea0-82a04ba80835)
