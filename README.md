@@ -1,5 +1,5 @@
 # stylethrone
-### Stylethrone is a full-stack web application developed using the MERN stack. It seamlessly integrates all the essential features for a modern web platform, including a sophisticated payment system powered by Stripe. The user interface is crafted with Bootstrap, ensuring responsiveness and a clean aesthetic across devices.
+###  - Stylethrone is a full-stack web application developed using the MERN stack. It seamlessly integrates all the essential features for a modern web platform, including a sophisticated payment system powered by Stripe. The user interface is crafted with Bootstrap, ensuring responsiveness and a clean aesthetic across devices.
 
 
 ## Authors
@@ -17,7 +17,7 @@
 ![Contact Us](https://github.com/user-attachments/assets/5273a846-b345-4aa7-b5f5-cc6acdd99f22)
 ![Buy Product](https://github.com/user-attachments/assets/81c28afe-903f-43bc-b8ee-ca63a99daf91)
 
-# payment integration using stripe Api
+# payment integration using stripe
 ![Buy Product](https://github.com/user-attachments/assets/73346b38-80be-461a-8ef6-ad8818d0769b)
 ![Buy Product](https://github.com/user-attachments/assets/e284ece8-c11d-461a-892f-873c6754aa3a)
 ![Screenshot (326)](https://github.com/user-attachments/assets/f8b828c6-b67d-432b-81e1-fefa0ced86d2)
