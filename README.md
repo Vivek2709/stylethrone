@@ -10,7 +10,7 @@
 - Responsive UI: Built using Bootstrap for a sleek and user-friendly interface
 - Scalable: Designed with scalability in mind to handle growing user bases
 
-# screenshots
+# Screenshots
 
 ![Sign Up](https://github.com/user-attachments/assets/05968d93-9800-4954-856c-fc7c09604499)
 ![Sign In](https://github.com/user-attachments/assets/b62d277a-2870-480e-b69b-61d31ffaa670)
